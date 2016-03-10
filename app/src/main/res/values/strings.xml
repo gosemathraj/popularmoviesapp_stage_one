@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popularmovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="contentdesc">contentdesc</string>
+    <string name="rated">RATED :</string>
+    <string name="release">RELEASE :</string>
+    <string name="desc">DESCRIPTION:</string>
+    <string name="landscape_image">landscape_image</string>
+</resources>
